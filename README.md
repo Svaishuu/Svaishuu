@@ -1,5 +1,13 @@
-## Hi there it's VAISHNAVI!!👋
+<h1 align="center">Hi there👋, I'm VAISHNAVI!!</h1>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishuriya&label=Profile%20views&color=0e75b6&style=flat" alt="rishuriya" /> </p>
+
+- 🌱 I’m currently learning **React and Node.js**
+
+- 📫 How to reach me **vaishnavi13411@gmail.com**
+
+- ⚡ Fun fact **i love dancing and singing**
 ## About Me
 I am a Computer Science and Engineering student with a passion for web development and programming. I love to explore new technologies and create innovative solutions. Currently, I am focusing on honing my skills in HTML, CSS, JavaScript, C language, Python, Java, MySQL, and Bootstrap.
 
@@ -13,11 +21,9 @@ I am a Computer Science and Engineering student with a passion for web developme
 - MySQL
 - Bootstrap
 
-## Projects
-- Project 1: [Description of project 1](link-to-project-1)
-- Project 2: [Description of project 2](link-to-project-2)
-- Project 3: [Description of project 3](link-to-project-3)
 
 ## Connect with Me
-- LinkedIn: [vaishnavikumari](https://www.linkedin.com/in/vaishnavi-kumari-3a8213221/)
-- Instagram: [[@vaishnavikumari](https://www.instagram.com/vaishnavikumari](https://www.instagram.com/_._.vaishuuuu._._/)https://www.instagram.com/_._.vaishuuuu._._/)
+- LinkedIn: [Vaishnavi Kumari](https://www.linkedin.com/in/vaishnavi-kumari)
+- Instagram: [@vaishnavikumari](https://www.instagram.com/vaishnavikumari)
+
+Feel free to reach out to me if you have any questions or collaboration opportunities!
