@@ -19,5 +19,5 @@ I am a Computer Science and Engineering student with a passion for web developme
 - Project 3: [Description of project 3](link-to-project-3)
 
 ## Connect with Me
-- LinkedIn: [Vaishnavi Kumari](https://www.linkedin.com/in/vaishnavi-kumari)
-- Instagram: [@vaishnavikumari](https://www.instagram.com/vaishnavikumari)
+- LinkedIn: [vaishnavikumari](https://www.linkedin.com/in/vaishnavi-kumari-3a8213221/)
+- Instagram: [[@vaishnavikumari](https://www.instagram.com/vaishnavikumari](https://www.instagram.com/_._.vaishuuuu._._/)https://www.instagram.com/_._.vaishuuuu._._/)
