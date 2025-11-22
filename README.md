@@ -9,7 +9,8 @@
 
 - ⚡ Fun fact **i love dancing and singing**
 ## About Me
-I am a Computer Science and Engineering student with a passion for web development and programming. I love to explore new technologies and create innovative solutions. Currently, I am focusing on honing my skills in HTML, CSS, JavaScript, C language, Python, Java, MySQL, and Bootstrap.
+Angular Developer | Web Problem-Solver
+I build web apps that actually make sense. One year of Angular adventures, a dash of React and Django, and enough TypeScript and JavaScript to confuse most compilers. I love turning messy ideas into clean, usable code—and occasionally Googling my way out of trouble.
 
 ## Skills
 - Angular
