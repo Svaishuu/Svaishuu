@@ -12,12 +12,21 @@
 I am a Computer Science and Engineering student with a passion for web development and programming. I love to explore new technologies and create innovative solutions. Currently, I am focusing on honing my skills in HTML, CSS, JavaScript, C language, Python, Java, MySQL, and Bootstrap.
 
 ## Skills
+- Angula
+- React
+- Django
+- Java
+- Material UI
+- Angular Material
+- Typescript
+- Vanilla Javascript
+- Data Structure
+- C++
 - HTML
 - CSS
-- JavaScript
+- SCSS
 - C language
 - Python
-- Java
 - MySQL
 - Bootstrap
 
