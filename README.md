@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **i love dancing and singing**
 ## About Me
-Angular Developer | Web Problem-Solver
+Angular Developer | Web Problem-Solver<br>
 I build web apps that actually make sense. One year of Angular adventures, a dash of React and Django, and enough TypeScript and JavaScript to confuse most compilers. I love turning messy ideas into clean, usable code—and occasionally Googling my way out of trouble.
 
 ## Skills
